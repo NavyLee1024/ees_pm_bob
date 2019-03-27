@@ -494,3 +494,9 @@ con
 14:57:34 INFO  : Successfully done setting XSCT server connection channel  
 14:57:34 INFO  : Processing command line option -hwspec C:/Users/Eureka/Desktop/EES_351/EES_351.sdk/EES_351_wrapper.hdf.
 14:57:34 INFO  : Successfully done setting SDK workspace  
+07:38:37 INFO  : Launching XSCT server: xsct.bat -interactive D:\NavyLeeGit\ees_pm_bob\EES_351\EES_351.sdk\temp_xsdb_launch_script.tcl
+07:38:42 INFO  : XSCT server has started successfully.
+07:38:42 INFO  : Successfully done setting XSCT server connection channel  
+07:38:48 INFO  : Successfully done setting SDK workspace  
+07:38:50 INFO  : Registering command handlers for SDK TCF services
+07:38:51 INFO  : Processing command line option -hwspec D:/NavyLeeGit/ees_pm_bob/EES_351/EES_351.sdk/EES_351_wrapper.hdf.

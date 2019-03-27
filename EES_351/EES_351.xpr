@@ -3,7 +3,7 @@
 <!--                                                         -->
 <!-- Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.   -->
 
-<Project Version="7" Minor="39" Path="C:/Users/Eureka/Desktop/EES_351/EES_351.xpr">
+<Project Version="7" Minor="39" Path="D:/NavyLeeGit/ees_pm_bob/EES_351/EES_351.xpr">
   <DefaultLaunch Dir="$PRUNDIR"/>
   <Configuration>
     <Option Name="Id" Val="1de86d3a23754c20a29b2382b74acedc"/>
@@ -76,35 +76,17 @@
           <Attr Name="UsedIn" Val="implementation"/>
           <Attr Name="UsedIn" Val="simulation"/>
         </FileInfo>
-        <CompFileExtendedInfo CompFileName="EES_351.bd" FileRelPathName="ip/EES_351_clk_wiz_1_0/EES_351_clk_wiz_1_0.xci">
-          <Proxy FileSetName="EES_351_clk_wiz_1_0"/>
-        </CompFileExtendedInfo>
-        <CompFileExtendedInfo CompFileName="EES_351.bd" FileRelPathName="ip/EES_351_v_vid_in_axi4s_0_0/EES_351_v_vid_in_axi4s_0_0.xci">
-          <Proxy FileSetName="EES_351_v_vid_in_axi4s_0_0"/>
-        </CompFileExtendedInfo>
-        <CompFileExtendedInfo CompFileName="EES_351.bd" FileRelPathName="ip/EES_351_proc_sys_reset_0_1/EES_351_proc_sys_reset_0_1.xci">
-          <Proxy FileSetName="EES_351_proc_sys_reset_0_1"/>
-        </CompFileExtendedInfo>
-        <CompFileExtendedInfo CompFileName="EES_351.bd" FileRelPathName="ip/EES_351_proc_sys_reset_0_2/EES_351_proc_sys_reset_0_2.xci">
-          <Proxy FileSetName="EES_351_proc_sys_reset_0_2"/>
+        <CompFileExtendedInfo CompFileName="EES_351.bd" FileRelPathName="ip/EES_351_processing_system7_0_0/EES_351_processing_system7_0_0.xci">
+          <Proxy FileSetName="EES_351_processing_system7_0_0"/>
         </CompFileExtendedInfo>
         <CompFileExtendedInfo CompFileName="EES_351.bd" FileRelPathName="ip/EES_351_v_axi4s_vid_out_0_0/EES_351_v_axi4s_vid_out_0_0.xci">
           <Proxy FileSetName="EES_351_v_axi4s_vid_out_0_0"/>
         </CompFileExtendedInfo>
-        <CompFileExtendedInfo CompFileName="EES_351.bd" FileRelPathName="ip/EES_351_axi_smc_0/EES_351_axi_smc_0.xci">
-          <Proxy FileSetName="EES_351_axi_smc_0"/>
+        <CompFileExtendedInfo CompFileName="EES_351.bd" FileRelPathName="ip/EES_351_v_tc_0_0/EES_351_v_tc_0_0.xci">
+          <Proxy FileSetName="EES_351_v_tc_0_0"/>
         </CompFileExtendedInfo>
-        <CompFileExtendedInfo CompFileName="EES_351.bd" FileRelPathName="ip/EES_351_video_0_0/EES_351_video_0_0.xci">
-          <Proxy FileSetName="EES_351_video_0_0"/>
-        </CompFileExtendedInfo>
-        <CompFileExtendedInfo CompFileName="EES_351.bd" FileRelPathName="ip/EES_351_proc_sys_reset_0_0/EES_351_proc_sys_reset_0_0.xci">
-          <Proxy FileSetName="EES_351_proc_sys_reset_0_0"/>
-        </CompFileExtendedInfo>
-        <CompFileExtendedInfo CompFileName="EES_351.bd" FileRelPathName="ip/EES_351_util_vector_logic_0_2/EES_351_util_vector_logic_0_2.xci">
-          <Proxy FileSetName="EES_351_util_vector_logic_0_2"/>
-        </CompFileExtendedInfo>
-        <CompFileExtendedInfo CompFileName="EES_351.bd" FileRelPathName="ip/EES_351_processing_system7_0_0/EES_351_processing_system7_0_0.xci">
-          <Proxy FileSetName="EES_351_processing_system7_0_0"/>
+        <CompFileExtendedInfo CompFileName="EES_351.bd" FileRelPathName="ip/EES_351_v_vid_in_axi4s_0_0/EES_351_v_vid_in_axi4s_0_0.xci">
+          <Proxy FileSetName="EES_351_v_vid_in_axi4s_0_0"/>
         </CompFileExtendedInfo>
         <CompFileExtendedInfo CompFileName="EES_351.bd" FileRelPathName="ip/EES_351_OV_Sensor_ML_0_0/EES_351_OV_Sensor_ML_0_0.xci">
           <Proxy FileSetName="EES_351_OV_Sensor_ML_0_0"/>
@@ -115,17 +97,32 @@
         <CompFileExtendedInfo CompFileName="EES_351.bd" FileRelPathName="ip/EES_351_axi_vdma_0_0/EES_351_axi_vdma_0_0.xci">
           <Proxy FileSetName="EES_351_axi_vdma_0_0"/>
         </CompFileExtendedInfo>
-        <CompFileExtendedInfo CompFileName="EES_351.bd" FileRelPathName="ip/EES_351_v_tc_0_0/EES_351_v_tc_0_0.xci">
-          <Proxy FileSetName="EES_351_v_tc_0_0"/>
-        </CompFileExtendedInfo>
         <CompFileExtendedInfo CompFileName="EES_351.bd" FileRelPathName="ip/EES_351_axi_gpio_0_0/EES_351_axi_gpio_0_0.xci">
           <Proxy FileSetName="EES_351_axi_gpio_0_0"/>
+        </CompFileExtendedInfo>
+        <CompFileExtendedInfo CompFileName="EES_351.bd" FileRelPathName="ip/EES_351_axi_smc_0/EES_351_axi_smc_0.xci">
+          <Proxy FileSetName="EES_351_axi_smc_0"/>
         </CompFileExtendedInfo>
         <CompFileExtendedInfo CompFileName="EES_351.bd" FileRelPathName="ip/EES_351_rst_ps7_0_100M_0/EES_351_rst_ps7_0_100M_0.xci">
           <Proxy FileSetName="EES_351_rst_ps7_0_100M_0"/>
         </CompFileExtendedInfo>
         <CompFileExtendedInfo CompFileName="EES_351.bd" FileRelPathName="ip/EES_351_util_vector_logic_0_1/EES_351_util_vector_logic_0_1.xci">
           <Proxy FileSetName="EES_351_util_vector_logic_0_1"/>
+        </CompFileExtendedInfo>
+        <CompFileExtendedInfo CompFileName="EES_351.bd" FileRelPathName="ip/EES_351_util_vector_logic_0_2/EES_351_util_vector_logic_0_2.xci">
+          <Proxy FileSetName="EES_351_util_vector_logic_0_2"/>
+        </CompFileExtendedInfo>
+        <CompFileExtendedInfo CompFileName="EES_351.bd" FileRelPathName="ip/EES_351_clk_wiz_1_0/EES_351_clk_wiz_1_0.xci">
+          <Proxy FileSetName="EES_351_clk_wiz_1_0"/>
+        </CompFileExtendedInfo>
+        <CompFileExtendedInfo CompFileName="EES_351.bd" FileRelPathName="ip/EES_351_proc_sys_reset_0_0/EES_351_proc_sys_reset_0_0.xci">
+          <Proxy FileSetName="EES_351_proc_sys_reset_0_0"/>
+        </CompFileExtendedInfo>
+        <CompFileExtendedInfo CompFileName="EES_351.bd" FileRelPathName="ip/EES_351_proc_sys_reset_0_1/EES_351_proc_sys_reset_0_1.xci">
+          <Proxy FileSetName="EES_351_proc_sys_reset_0_1"/>
+        </CompFileExtendedInfo>
+        <CompFileExtendedInfo CompFileName="EES_351.bd" FileRelPathName="ip/EES_351_proc_sys_reset_0_2/EES_351_proc_sys_reset_0_2.xci">
+          <Proxy FileSetName="EES_351_proc_sys_reset_0_2"/>
         </CompFileExtendedInfo>
       </File>
       <File Path="$PSRCDIR/sources_1/bd/EES_351/hdl/EES_351_wrapper.v">
@@ -264,12 +261,6 @@
     <FileSet Name="EES_351_proc_sys_reset_0_2" Type="BlockSrcs" RelSrcDir="$PSRCDIR/EES_351_proc_sys_reset_0_2">
       <Config>
         <Option Name="TopModule" Val="EES_351_proc_sys_reset_0_2"/>
-        <Option Name="UseBlackboxStub" Val="1"/>
-      </Config>
-    </FileSet>
-    <FileSet Name="EES_351_video_0_0" Type="BlockSrcs" RelSrcDir="$PSRCDIR/EES_351_video_0_0">
-      <Config>
-        <Option Name="TopModule" Val="EES_351_video_0_0"/>
         <Option Name="UseBlackboxStub" Val="1"/>
       </Config>
     </FileSet>
@@ -438,15 +429,6 @@
       <Report Name="ROUTE_DESIGN.REPORT_METHODOLOGY" Enabled="1"/>
     </Run>
     <Run Id="EES_351_proc_sys_reset_0_2_synth_1" Type="Ft3:Synth" SrcSet="EES_351_proc_sys_reset_0_2" Part="xc7z020clg484-1" ConstrsSet="EES_351_proc_sys_reset_0_2" Description="Vivado Synthesis Defaults" AutoIncrementalCheckpoint="false" WriteIncrSynthDcp="false" Dir="$PRUNDIR/EES_351_proc_sys_reset_0_2_synth_1" IncludeInArchive="true">
-      <Strategy Version="1" Minor="2">
-        <StratHandle Name="Vivado Synthesis Defaults" Flow="Vivado Synthesis 2018"/>
-        <Step Id="synth_design"/>
-      </Strategy>
-      <GeneratedRun Dir="$PRUNDIR" File="gen_run.xml"/>
-      <ReportStrategy Name="Vivado Synthesis Default Reports" Flow="Vivado Synthesis 2018"/>
-      <Report Name="ROUTE_DESIGN.REPORT_METHODOLOGY" Enabled="1"/>
-    </Run>
-    <Run Id="EES_351_video_0_0_synth_1" Type="Ft3:Synth" SrcSet="EES_351_video_0_0" Part="xc7z020clg484-1" ConstrsSet="EES_351_video_0_0" Description="Vivado Synthesis Defaults" AutoIncrementalCheckpoint="false" WriteIncrSynthDcp="false" Dir="$PRUNDIR/EES_351_video_0_0_synth_1" IncludeInArchive="true">
       <Strategy Version="1" Minor="2">
         <StratHandle Name="Vivado Synthesis Defaults" Flow="Vivado Synthesis 2018"/>
         <Step Id="synth_design"/>
@@ -713,22 +695,6 @@
       <Report Name="ROUTE_DESIGN.REPORT_METHODOLOGY" Enabled="1"/>
     </Run>
     <Run Id="EES_351_proc_sys_reset_0_2_impl_1" Type="Ft2:EntireDesign" Part="xc7z020clg484-1" ConstrsSet="EES_351_proc_sys_reset_0_2" Description="Default settings for Implementation." AutoIncrementalCheckpoint="false" WriteIncrSynthDcp="false" SynthRun="EES_351_proc_sys_reset_0_2_synth_1" IncludeInArchive="false" GenFullBitstream="true">
-      <Strategy Version="1" Minor="2">
-        <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2018"/>
-        <Step Id="init_design"/>
-        <Step Id="opt_design"/>
-        <Step Id="power_opt_design"/>
-        <Step Id="place_design"/>
-        <Step Id="post_place_power_opt_design"/>
-        <Step Id="phys_opt_design"/>
-        <Step Id="route_design"/>
-        <Step Id="post_route_phys_opt_design"/>
-        <Step Id="write_bitstream"/>
-      </Strategy>
-      <ReportStrategy Name="Vivado Implementation Default Reports" Flow="Vivado Implementation 2018"/>
-      <Report Name="ROUTE_DESIGN.REPORT_METHODOLOGY" Enabled="1"/>
-    </Run>
-    <Run Id="EES_351_video_0_0_impl_1" Type="Ft2:EntireDesign" Part="xc7z020clg484-1" ConstrsSet="EES_351_video_0_0" Description="Default settings for Implementation." AutoIncrementalCheckpoint="false" WriteIncrSynthDcp="false" SynthRun="EES_351_video_0_0_synth_1" IncludeInArchive="false" GenFullBitstream="true">
       <Strategy Version="1" Minor="2">
         <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2018"/>
         <Step Id="init_design"/>

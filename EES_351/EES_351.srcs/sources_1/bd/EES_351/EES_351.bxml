@@ -2,10 +2,10 @@
 <Root MajorVersion="0" MinorVersion="36">
   <CompositeFile CompositeFileTopName="EES_351" CanBeSetAsTop="false" CanDisplayChildGraph="true">
     <Description>Composite Fileset</Description>
-    <Generation Name="SYNTHESIS" State="GENERATED" Timestamp="1553669720"/>
-    <Generation Name="IMPLEMENTATION" State="GENERATED" Timestamp="1553669720"/>
-    <Generation Name="SIMULATION" State="GENERATED" Timestamp="1553669720"/>
-    <Generation Name="HW_HANDOFF" State="GENERATED" Timestamp="1553669720"/>
+    <Generation Name="SYNTHESIS" State="RESET" Timestamp="1553643474"/>
+    <Generation Name="IMPLEMENTATION" State="RESET" Timestamp="1553643474"/>
+    <Generation Name="SIMULATION" State="RESET" Timestamp="1553643474"/>
+    <Generation Name="HW_HANDOFF" State="RESET" Timestamp="1553643474"/>
     <FileCollection Name="SOURCES" Type="SOURCES">
       <File Name="ip\EES_351_processing_system7_0_0\EES_351_processing_system7_0_0.xci" Type="IP">
         <Instance HierarchyPath="processing_system7_0"/>
